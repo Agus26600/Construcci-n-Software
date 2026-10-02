@@ -1,3 +1,4 @@
+//ANALISIS
 //ERROR: nombre de clase algo genérico, ya que no describe algo específico
 //eRROR: sin documentación
 public class Procesador {
@@ -26,7 +27,7 @@ public class Procesador {
         System.out.println("Suma total: " + suma);
     }
     
-    //error, sin Javadoc en el método main.
+    //error, sin Javadoc en el main.
     public static void main(String[] args) {
         //error, declaración e inicialización con sintaxis incorrecta
         int[] datos = {5, 10, -3, 8};
