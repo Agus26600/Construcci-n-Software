@@ -84,7 +84,7 @@ public class ProcesadorFiguras {
         System.out.println("Área del " + figura.getNombre() + ": " + figura.calcularArea());
     }
     /**
-     * punto de entrada del programa para probar la jerarquía de figuras.
+     * punto de entrada del programa para probar la jerarquía de figuras
      * @param args argumentos de línea de comandos (no utilizados)
      */
     public static void main(String[] args) {

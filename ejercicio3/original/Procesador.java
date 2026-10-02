@@ -21,7 +21,7 @@ package original;
     }
 }
 
-//sin Javadoc.
+//sin Javadoc
 //nombre algo ambiguo
 public class Procesador {
 
